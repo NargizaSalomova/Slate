@@ -11,9 +11,6 @@
 /* ============================АДАПТИВ============================== */
 
 @media  (max-width:1200px){
-    .container{
-        max-width: 100%;
-    }
     .hero{
         margin-bottom: 0;
     }
@@ -42,9 +39,6 @@
 }
 /* ======================================================================================== */
 @media  (max-width:1024px){
-    .container{
-        max-width: 100%;
-    }
     .header{
         margin-bottom: 20px;
     }
@@ -200,9 +194,6 @@
 }
 /* ============================================================= */
 @media  (max-width:775px){
-    .container{
-        max-width: 100%;
-    }
     .header__logo {
         max-width: 100px;
         margin-right: 10px;
