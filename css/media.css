@@ -120,9 +120,10 @@
 /* ============================================================== */
 @media  (max-width:995px){
     .container{
-        max-width:1000px;
+        width:100%;
     }   
     .header__inner{
+        width:100%;
         -webkit-box-pack: justify;
             -ms-flex-pack: justify;
                 justify-content: space-between;
